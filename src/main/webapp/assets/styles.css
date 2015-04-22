@@ -1,0 +1,16 @@
+body {
+    background: #32c1d0;
+    color: #114476;
+    font-family: "Helvetica", serif;
+    margin-top: 2em;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}

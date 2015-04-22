@@ -1,12 +1,9 @@
--@ val title: String
--@ val headline: String = title
 -@ val body: String
 
 !!!
 %html
   %head
-    %title= title
+    %link{:rel => "stylesheet", :href => "assets/styles.css"}
+    %title Scalatra at ScalarMini
   %body 
-    #content
-      %h1= headline
-      != body
+    != body

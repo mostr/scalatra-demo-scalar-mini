@@ -1,22 +1,13 @@
-### scalatra-sbt-prototype
+### Scalatra demo at Scalar Mini, April 23rd, Poznan
 
-This is a minimum example to show how to build web applications with Scalatra.
+This is demo app from the talk I gave on Scalar Mini in Poznan. This is based on great scalatra-sbt-prototype stuff.
 
 1. Launch [sbt](http://www.scala-sbt.org/)
 
-```
-# brew install sbt
-sbt
-```
+2. Run the standalone app from SBT (call `~reStart` from within SBT shell to trigger app restart on file change)
 
-2. Run Jetty on the sbt shell
+3. Go to [http://localhost:8080](http://localhost:8080)
 
-```
-container:start
-```
-
-3. Go to http://localhost:8080/.
-
-4. Learn more at http://www.scalatra.org/.
+4. Learn more at [http://scalatra.org](http://scalatra.org)
 
 5. Happy hacking!
