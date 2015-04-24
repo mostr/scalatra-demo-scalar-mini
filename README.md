@@ -1,6 +1,6 @@
 ### Scalatra demo at Scalar Mini, April 23rd, Poznan
 
-This is demo app from the talk I gave on Scalar Mini in Poznan. This is based on great scalatra-sbt-prototype stuff.
+This is demo app from the talk I gave on Scalar Mini in Poznan. This is based on great scalatra-sbt-prototype stuff. Slides are available [here](./Scalatra - Scalar Mini.pdf)
 
 1. Launch [sbt](http://www.scala-sbt.org/)
 
